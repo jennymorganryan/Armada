@@ -1,2 +1,2 @@
 # Milllion Dollars AI
-A machine learning model using deeplabcut to track dog movement and detect when a dog goes potty indoors. Model will trigger a sound for training purposes if a dog goes potty.
+A machine learning model built with DeepLabCut to analyze dog positions and patterns through video and detects when a dog pees or poops indoors. If a dog goings pee or poop, the system triggers a sound for house training assistance.
